@@ -1,0 +1,18 @@
+No pueden haber parrafos de una oracion
+
+Catalogo, no existe catalogo en linea, por lo que disminuye la venta de los productos.
+
+Objeto de estudio solapado con el campo de accion.
+Quito el campo de accion.
+
+Poner version de las herramientas y tecnologias.
+tecnologias adicionar GitHub.
+
+Conclusiones parciales en forma de párrafo. Generales en lista.
+
+
+Requisitos no funcionales:
+Debe ser Medibles 
+Capacidades y cualidades
+
+telefono tal para alante

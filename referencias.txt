@@ -1,0 +1,79 @@
+-----------------------------------------------------------------------------------------------
+- Rules of citation - https://citationsy.com/styles/iso690-author-date-en
+LAST NAME, First Name, 2000. Title. Edition. City: Publisher. ISBN ISBN.
+
+example: ANGELOU, Maya, 1969. I Know Why the Caged Bird Sings. 1. New York: Random House. ISBN 9780375507892.
+
+In-text citation: (Angelou 1969)
+
+Herrán Gascón, A., Cortina Selva, M. y González Sánchez, I. (2006). La muerte y su didáctica. Manual para educación infantil, primaria y secundaria. Madrid: Universitas.
+
+-----------------------------------------------------------------------------------------------
+
+
+1
+The Power of Website and social media for Strengthening Brand Image, E-WoM, and Purchase Decision
+Mochamad Nurhadi*, Tatik Suryani, Abu Amar Fauzi
+February 2023 Journal of Economics Business and Accountancy Ventura
+Recuperado de Research Gate 29 febrero 2024
+https://www.researchgate.net/publication/369801822_The_Power_of_Website_and_Social_Media_for_Strengthening_Brand_Image_E-WoM_and_Purchase_Decision
+
+
+2
+Vladimir Alfonso Rodríguez,Edelmis Chapis Cabrera.IMPORTANCIA DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES, EL INTERNET Y LAS REDES SOCIALES EN EL MEJORAMIENTO Y DESARROLLO DE LAS EMPRESAS. Universidad de Cienfuegos. Recuperado Marzo 1 2024 en
+https://www.eumed.net/rev/ce/2019/1/tecnologias-informacion-empresas.html
+
+
+3
+Kasey Kaplan. Revista Forbes Recuperado Marzo 1 2024 en
+https://www.forbes.com/sites/theyec/2020/02/03/why-every-business-needs-a-website/?sh=1e05947c6e75
+
+
+4
+D. Sharma, R. Shukla, A. K. Giri and S. Kumar, "A Brief Review on Search Engine Optimization," 2019 9th International Conference on Cloud Computing, Data Science & Engineering (Confluence), Noida, India, 2019, pp. 687-692, doi: 10.1109/CONFLUENCE.2019.8776976. Recuperado en IEEE Xplore Marzo 2 2024 https://ieeexplore.ieee.org/abstract/document/8776976
+
+
+5
+Arévalo, G. A. y Álvarez, M. I. (2019). Visibilidad en línea: análisis de los hoteles de Tunja (Colombia). Turismo y Sociedad, xxv, pp. 253-271. doi: https://doi. org/10.18601/01207555.n25.12
+
+
+
+
+6
+CERRON, 2017. IMPLEMENTACIÓN DE UN PORTAL WEB MEDIANTE LA METODOLOGÍA RUP PARA OPTIMIZAR LOS PROCESOS DE PRESTACIÓN DE SERVICIOS DE LA EMPRESA PROGRAMADORES WEB PERÚ S.A.C. UNIVERSIDAD DE CIENCIAS Y HUMANIDADES de Perú. https://repositorio.uch.edu.pe/bitstream/handle/20.500.12872/93/CD-TISI-018-2017.pdf?sequence=1&isAllowed=y
+
+
+7
+GARCERANT, I. Modelo de Dominio. Tecnología y Synergix. Recuperado de https://synergix.wordpress.com/2008/07/10/modelo-de-dominio/
+
+8
+Somerville, Ian.2011. SOFTWARE ENGINEERING. Ninth Edition. Addison-Wesley
+
+9
+REHKOPF. Historias de usuario con ejemplos y plantilla. Recuperado de https://www.atlassian.com/es/agile/project-management/user-stories
+
+
+
+
+Técnicamente, la visibilidad en internet consiste en [la] predisposición que tiene un sitio web para ser rastreado en su totalidad por un buscador e indizado dentro de la categoría que corresponda por su temática y con las palabras clave que utiliza el público objetivo en cada situación concreta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TEMP
+forbes article about importance of the web for businnesses
