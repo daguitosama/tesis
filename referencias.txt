@@ -52,7 +52,16 @@ Somerville, Ian.2011. SOFTWARE ENGINEERING. Ninth Edition. Addison-Wesley
 9
 REHKOPF. Historias de usuario con ejemplos y plantilla. Recuperado de https://www.atlassian.com/es/agile/project-management/user-stories
 
+10
+Craig Larman. 2003. Applying UML and Patterns. Recuperado de https://books.google.com.cu/books?redir_esc=y&id=r8i-4En_aa4C&q=grasp#v=onepage&q&f=false
 
+
+11
+Paul VanZandt. ¿Qué es el diagrama de secuencia? Diagramas de definición y secuencia? Recuperado de https://ideascale.com/es/blogs/que-es-el-diagrama-secuencia/
+
+
+12
+Visual Paradigm. Recuperado de https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-component-diagram/
 
 
 Técnicamente, la visibilidad en internet consiste en [la] predisposición que tiene un sitio web para ser rastreado en su totalidad por un buscador e indizado dentro de la categoría que corresponda por su temática y con las palabras clave que utiliza el público objetivo en cada situación concreta.
