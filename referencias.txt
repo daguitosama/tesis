@@ -68,6 +68,16 @@ Visual Paradigm. Recuperado de https://www.visual-paradigm.com/guide/uml-unified
 Geeksforgeeks. Functional Testing – Software Testing. Recuperado de https://www.geeksforgeeks.org/software-testing-functional-testing/
 
 
+14
+Sistema de gestión administrativa de proyectos de Investigación, Desarrollo e Innovación asociados a programas. Gilberto Veitia Urbay, Rixon Riverol Arévalo. 2022.Universidad de las Ciencias Informáticas.
+
+
+
+
+
+
+
+
 Técnicamente, la visibilidad en internet consiste en [la] predisposición que tiene un sitio web para ser rastreado en su totalidad por un buscador e indizado dentro de la categoría que corresponda por su temática y con las palabras clave que utiliza el público objetivo en cada situación concreta.
 
 
