@@ -73,6 +73,60 @@ Sistema de gestión administrativa de proyectos de Investigación, Desarrollo e 
 
 
 
+---- new ones
+
+
+
+15
+
+Cloudflare Inc. (29 Junio 2024).Serverless computing. Recuperado de https://developers.cloudflare.com/learning-paths/workers/concepts/serverless-computing/
+
+
+
+16
+Mozilla.(29 Junio 2024). TypeScript. Recuperado de  https://developer.mozilla.org/en-US/docs/Glossary/TypeScript
+
+17
+Tailwind CSS. Rapidly build modern websites without ever leaving your HTML.(29 Junio 2024). Recuperado de https://tailwindcss.com
+
+
+18
+Eric Meyer, Estelle Weyl. CSS The definitive Guide. (2017). O’Reilly Media, Inc.
+
+
+19
+Visual Paradigm. (29 Junio 2024). The #1 Development Tool Suite. Recuperado de https://www.visual-paradigm.com
+
+20
+Figma.(29 Junio 2024). What is Figma?. Recuperado de https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma
+
+21
+Mozilla. (29 Junio 2024). JavaScript. Recuperado de https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+22
+Mozilla. (29 Junio 2024). HTML: HyperText Markup Language.Recuperado de  https://developer.mozilla.org/en-US/docs/Web/HTML
+
+23
+Geeksforgeeks. (11 Marzo 2024). React Introduction. Recuperado de https://www.geeksforgeeks.org/reactjs-introduction/
+
+24
+Shopify, Inc. (29 Junio 2024). Focused on web standards and modern web app UX, you’re simply going to build better websites. Recuperado de https://remix.run
+
+25
+Dennis Matotek, James Turnbull, Peter Lieverdink.  (2017). Pro Linux System Administration 2nd Edition. Apress Media, LLC 
+
+
+26
+PocketBase. (29 Junio 2024). PocketBase. Recuperado de https://github.com/pocketbase/pocketbase
+
+27
+ZeroSSL. (29 Junio 2024). All features. Recuperado de https://caddyserver.com/features
+
+28
+Silverman. (2013). Git Pocket Guide. O’Reilly Media, Inc.
+
+29
+GitHub, Inc. (29 Junio 2024). About GitHub and Git. Recuperado de https://docs.github.com/en/get-started/start-your-journey/about-github-and-git
 
 
 
