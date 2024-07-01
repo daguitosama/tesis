@@ -129,8 +129,28 @@ Silverman. (2013). Git Pocket Guide. O’Reilly Media, Inc.
 GitHub, Inc. (29 Junio 2024). About GitHub and Git. Recuperado de https://docs.github.com/en/get-started/start-your-journey/about-github-and-git
 
 
+30
+Microsoft. (29 Junio 2024). Code editing.Redefined. Recuperado de https://code.visualstudio.com
 
 
+31
+Alex Fernández. (29 Junio 2024).loadtest. Recuperado de https://github.com/alexfernandez/loadtest?tab=readme-ov-file
+
+
+32
+Malika Tasnim Taky. (2021). AUTOMATED TESTING WITH CYPRESS. VAASAN AMMATTIKORKEAKOULU UNIVERSITY OF APPLIED SCIENCES.  Recuperado de https://www.theseus.fi/bitstream/handle/10024/495908/taky%20malika%20final%20thesis%20ready%20to%20submit.pdf?sequence=2&isAllowed=y
+
+35
+RushOrderTees. (29 Junio 2024). About us. Recuperado de https://www.rushordertees.com
+
+
+36
+dbags. 29 Junio 2024). Tienda online de Bolsas de Papel personalizadas y embalaje decorativo. Recuperado de https://bolsas-de-papel.es
+
+
+
+37
+Spreadshirt. (29 Junio 2024). the joy of SUMMER. Recuperado de https://www.spreadshirt.es
 
 Técnicamente, la visibilidad en internet consiste en [la] predisposición que tiene un sitio web para ser rastreado en su totalidad por un buscador e indizado dentro de la categoría que corresponda por su temática y con las palabras clave que utiliza el público objetivo en cada situación concreta.
 
