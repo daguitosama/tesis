@@ -87,7 +87,8 @@ Cloudflare Inc. (29 Junio 2024).Serverless computing. Recuperado de https://deve
 Mozilla.(29 Junio 2024). TypeScript. Recuperado de  https://developer.mozilla.org/en-US/docs/Glossary/TypeScript
 
 17
-Tailwind CSS. Rapidly build modern websites without ever leaving your HTML.(29 Junio 2024). Recuperado de https://tailwindcss.com
+Tailwind CSS. Rapidly build modern websites without ever leaving your HTML.(29 Junio 2024). 
+Recuperado de https://tailwindcss.com
 
 
 18
